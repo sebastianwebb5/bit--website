@@ -26,8 +26,8 @@
   /* Áreas del Grid */
   .header {
     grid-area: header;
-    background: #333;
-    color: white;
+    background: #000000;
+    color: rgb(219, 0, 0);
     padding: 1rem;
     background-image: url(/imagenes-logos-videos/banner.2.jpg);
     border: 3px solid rgb(1, 1, 1);
@@ -165,7 +165,7 @@
   font-style: normal; 
 }
 .lista{
-    color: #ffffff;
+    color: #f30000;
 
 
 }
